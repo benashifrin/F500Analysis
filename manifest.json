@@ -1,0 +1,17 @@
+{
+  "name": "F500Analysis",
+  "version": "0.1.0",
+  "size": {
+    "width": 5,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "67c66a60-de07-4366-88c2-e1d075f88106",
+      "alias": "leads",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "011a0533-6996-4cdc-af57-4a5cde72a269"
+}
